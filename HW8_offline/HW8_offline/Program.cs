@@ -1,1 +1,1 @@
-﻿Console.WriteLine("Hello, World!");
+﻿HW8_offline.Starter.Run();
